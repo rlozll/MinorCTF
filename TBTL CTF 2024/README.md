@@ -7,4 +7,5 @@ This one의 링크로 들어가니까 Split rail fence라는 위키피디아 페
 우선 TBTL{} 형식임을 기억하고 하나 하나씩 맞춰가겠다.
 T0n40g5BG03cmk0D1hr}T{dFe_3g_3buL_5_n0
 
+![initial](https://github.com/rlozll/MinorCTF/assets/157143590/2ca11781-f1ee-4d2c-a195-d3379bb96328)
 이렇게 rail fences 복호화 방식으로 풀면 된다.
