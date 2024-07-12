@@ -15,3 +15,8 @@ HTTP 프로토콜을 사용한 패킷들 중에서도 404라든지 이런 오류
 
 그 중 Hypertext Transfer Protocol section을 확장하여 User-Agent 필드를 확인해주었다.
 
+![initial](https://github.com/user-attachments/assets/192f0534-c359-4853-88b1-19d5207e201f)
+
+이곳을 자세히 보니, 도구와 버전으로 보이는 부분을 발견했다.
+
+##### DUCTF{Nikto_2.1.6}
